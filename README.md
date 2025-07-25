@@ -1,0 +1,1 @@
+# intelligent-inspector-adobe
