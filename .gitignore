@@ -1,1 +1,35 @@
-venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Model files (keep large local models out of git)
+local_model/
+*.bin
+*.pt
+
+# PDF documents
+pdfs/
+*.pdf
+
+# Output files
+output.json
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS & Editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Docker
+*.tar
