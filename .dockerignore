@@ -1,0 +1,13 @@
+pdfs/
+input.json
+output.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.git
+.gitignore
+README.md
+.DS_Store
+*.md
